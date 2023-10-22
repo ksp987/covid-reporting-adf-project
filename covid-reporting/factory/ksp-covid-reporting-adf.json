@@ -1,0 +1,9 @@
+{
+	"name": "ksp-covid-reporting-adf",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0a7eec9f-bc7b-4c7c-8ebd-3a552189e3e0",
+		"tenantId": "21ae9264-e046-4881-9ecf-83bcb88a1318"
+	}
+}
